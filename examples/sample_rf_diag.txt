@@ -1,0 +1,38 @@
+[2026-10-02T11:04:07.899+05:30] SYNTHETIC range=0x29
+  PDoA diagnostic: -4312 raw, -120.634 degrees
+  PDoA reported by firmware: 0 degrees
+  Raw fields:
+    ipatovRxTime = 263698630051
+    ipatovRxStatus = 0
+    ipatovPOA = 6386
+    stsRxTime = 263698629908
+    stsRxStatus = 256
+    stsPOA = 11890
+    sts2RxTime = 263698630081
+    sts2RxStatus = 0
+    sts2POA = 950
+    tdoa = 2199023255379
+    pdoa = -4312
+    xtalOffset = 393
+    ciaDiag1 = 3220799
+    ipatovPeak = 1560288448
+    ipatovPower = 78
+    ipatovF1 = 5605
+    ipatovF2 = 7323
+    ipatovF3 = 7206
+    ipatovFpIndex = 47521
+    ipatovAccumCount = 33
+    stsPeak = 757078256
+    stsPower = 61
+    stsF1 = 1636
+    stsF2 = 1675
+    stsF3 = 2144
+    stsFpIndex = 22802
+    stsAccumCount = 128
+    sts2Peak = 757097701
+    sts2Power = 869
+    sts2F1 = 15527
+    sts2F2 = 25166
+    sts2F3 = 25829
+    sts2FpIndex = 22975
+    sts2AccumCount = 128
